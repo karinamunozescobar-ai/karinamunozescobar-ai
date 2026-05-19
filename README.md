@@ -8,7 +8,7 @@
   ## Mis Conocimientos
 <p> Poseo estudios en Ingeniería Comercial y Administración de Empresas. </p>
 <p> Profesora particular de Matemáticas </p>
-<p> En proceso de estudios en bootcamp Desarrollador Full Stack JavasScript </p>
+<p> En proceso de estudios en bootcamp Desarrollador Full Stack JavaScript </p>
 
   ## Mi Objetivo
 Quiero seguir aprendiendo y desarrollar proyectos que me ayuden a crecer profesionalmente en tecnología.
