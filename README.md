@@ -5,12 +5,13 @@
 <p> For now, I'm reinforcing my knowledge by learn new technologies... </p>
 <p> Soy una aprendiz innata, proactiva y resolutiva. </p>
   
-  ## Mis Conocimientos
+  # Mis Conocimientos
+<p> Cursando Bootcamp como Desarrollador Full Stack </p>  
+<p> Participante en curso de Fundamentos en la IA Generativa </p>
 <p> Poseo estudios en Ingeniería Comercial y Administración de Empresas. </p>
 <p> Profesora particular de Matemáticas </p>
-<p> En proceso de estudios en bootcamp Desarrollador Full Stack JavaScript </p>
 
-  ## Mi Objetivo
+  # Mi Objetivo
 Quiero seguir aprendiendo y desarrollar proyectos que me ayuden a crecer profesionalmente en tecnología.
 
 </div>
