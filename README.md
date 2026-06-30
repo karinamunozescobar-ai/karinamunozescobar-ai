@@ -1,59 +1,45 @@
-<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFF7ED&background=000000&center=true&vCenter=true&width=1100&lines=Hello+world%2C+I'm+a+developer+%3C3" alt="Typing SVG" /></a></div>
-<p> I'm a curious student who loves learning new things, working in teams and by chanllenge my skills...</p>
-
-<div>
-<p> For now, I'm reinforcing my knowledge by learn new technologies... </p>
-<p> Soy una aprendiz innata, proactiva y resolutiva. </p>
-  
-  # Mis Conocimientos
-<p> Cursando Bootcamp como Desarrollador Full Stack </p>  
-<p> Participante en curso de Fundamentos en la IA Generativa </p>
-<p> Poseo estudios en Ingeniería Comercial y Administración de Empresas. </p>
-<p> Profesora particular de Matemáticas </p>
-
-  # Mi Objetivo
-Quiero seguir aprendiendo y desarrollar proyectos que me ayuden a crecer profesionalmente en tecnología.
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFF7ED&background=000000&center=true&vCenter=true&width=1100&lines=Hello+world%2C+I'm+a+developer+%3C3" alt="Typing SVG" />
+  </a>
 </div>
-<br>
 
-### <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and tools
+## 👤 Sobre Mí
+
+¡Hola! Soy una aprendiz innata, proactiva y resolutiva. Me apasiona adquirir nuevos conocimientos, trabajar colaborativamente en equipo y desafiar constantemente mis habilidades. 
+
+Actualmente me encuentro reforzando mis fundamentos técnicos y explorando nuevas tecnologías para integrarlas en soluciones eficientes.
+
+---
+
+## 🔍 Mis Conocimientos y Formación
+
+* 🚀 **Full Stack Developer** — Actualmente cursando Bootcamp de desarrollo.
+* 🧠 **Fundamentos en IA Generativa** — Participante en formación de Inteligencia Artificial.
+* 💼 **Ingeniería Comercial y Administración de Empresas** — Sólida base analítica, de gestión y negocios.
+* 📐 **Profesora Particular de Matemáticas** — Experiencia desarrollando lógica, resolución de problemas y pedagogía.
+
+---
+
+## 🎯 Mi Objetivo
+
+Quiero seguir aprendiendo y desarrollar proyectos de alto impacto que me permitan crecer profesionalmente en el ecosistema tecnológico.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 💻 Lenguajes y Entornos
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
-### <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Others
+### ⚙️ Herramientas y Control de Versiones
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Siempre creciendo a mi mejor versión ✨
-
-<!--
-
-**karinamunozescobar-ai/karinamunozescobar-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>Siempre creciendo a mi mejor versión ✨</h3>
+</div>
