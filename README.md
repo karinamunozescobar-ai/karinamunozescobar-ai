@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+sans&pause=1000&color=F4F7F7&background=000000&center=true&width=1100&lines=Hola!+Soy+una+desarrolladora+Full+Stack+%3C3" alt="Typing SVG" /></a>
 </div>
-<img src="https://github.com/karinamunozescobar-ai/karinamunozescobar-ai/blob/main/Image_karidevelop.jpg">
+<img src="https://github.com/karinamunozescobar-ai/karinamunozescobar-ai/blob/main/kari-github.jpg">
 
 ## 👤 Sobre Mí
 
