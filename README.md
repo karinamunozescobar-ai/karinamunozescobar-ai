@@ -12,7 +12,7 @@ Actualmente me encuentro reforzando mis fundamentos técnicos y explorando nueva
 
 ## 🔍 Mis Conocimientos y Formación
 
-* 🚀 **Desarolladora Full Stack Jr Java** — Certificado Bootcamp Generation Chile.
+* 🚀 **Desarolladora Full Stack Jr Java** — Certificación Bootcamp Generation Chile.
 * 🧠 **Fundamentos en IA Generativa** — CenteIA.
 * 💼 **Ingeniería Comercial y Administración de Empresas** — Sólida base analítica, de gestión y negocios.
 * 📐 **Profesora Particular de Matemáticas** — Experiencia desarrollando lógica, resolución de problemas y pedagogía.
